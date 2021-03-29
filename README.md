@@ -1,6 +1,5 @@
 # CPP-165
-Sort by set bits count
-
+Sort array according to count of set bits
 
 
 
